@@ -1,1 +1,1 @@
-# organizador_IRPF
+Este repositório contém uma planilha simples em Excel desenvolvida para auxiliar na organização dos dados necessários para a declaração do Imposto de Renda. O projeto foi criado como parte de um desafio/projeto da Digital Innovation One (DIO).
